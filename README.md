@@ -1,2 +1,2 @@
 # 3D-face-recognition
-졸업 작품_개요 파일 
+졸업작품_개요.pptx 파일 참고
